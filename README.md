@@ -35,7 +35,7 @@ Track your daily activities with custom icons, monitor your progress in real-tim
 
 ## Installation
 
-To set up the Discord bot page, follow these steps:
+To set up the Ritmo – Habit Tracker App, follow these steps:
 
 1. Clone the repository:
    ```bash
